@@ -6,6 +6,7 @@ import './App.css';
 
 function App() {
   console.log('hello world!')
+  console.log("Here is another message!")
 
   return (
     <div>
