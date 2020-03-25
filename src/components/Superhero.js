@@ -2,6 +2,7 @@ import React from 'react'
 import Attribute from './Attribute'
 
 function Superhero(props) {
+  console.log(radhika)
   return (
     <div>
       <Attribute name='Superhero' value={props.name} />
