@@ -5,6 +5,8 @@ import Superhero from './components/Superhero'
 import './App.css';
 
 function App() {
+  console.log('hello world!')
+
   return (
     <div>
       <div className="App">
