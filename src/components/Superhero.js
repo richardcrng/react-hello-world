@@ -4,9 +4,9 @@ import Attribute from './Attribute'
 function Superhero(props) {
   return (
     <div>
-      <p><b>Superhero:</b> {props.name}</p>
-      <p><b>Franchise:</b> {props.franchise}</p>
-      <p><b>Powers:</b> {props.powers}</p>
+      <Attribute name='Superhero' value={props.name} />
+      <Attribute name='Franchise' value={props.franchise} />
+      <Attribute name='Powers' value={props.powers} />
     </div>
   )
 }
