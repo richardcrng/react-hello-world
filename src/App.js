@@ -26,6 +26,7 @@ function App() {
           name='Batman'
           enemy='Joker'
         />
+        <button>Here is my button</button>
       </div>
     </div>
   );
