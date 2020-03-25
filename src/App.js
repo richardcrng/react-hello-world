@@ -8,6 +8,7 @@ function App() {
   console.log('hello world!')
   console.log("Here is another message!")
   console.log("This is SPARTAAAAA!!!")
+  console.log("This is chaos")
 
   return (
     <div>
