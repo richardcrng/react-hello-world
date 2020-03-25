@@ -7,6 +7,7 @@ import './App.css';
 function App() {
   console.log('hello world!')
   console.log("Here is another message!")
+  console.log("This is SPARTAAAAA!!!")
 
   return (
     <div>
